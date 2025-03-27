@@ -1,6 +1,10 @@
 # Byte_Find
 Byte Find is a powerful information-gathering and security assessment tool designed for comprehensive website and network reconnaissance. It efficiently collects intelligence on target domains and IP addresses, identifying potential vulnerabilities through DNS enumeration, WHOIS lookups, web technology fingerprinting, and network scanning. Lightweight and fast, Byte Find goes beyond standard information gathering, providing in-depth insights for enhanced security analysis.
+<div align="center">
+<img src="assets/BitFind.png" alt="Bitefind" width="400" >
+</div>
 
+---
 ## ✨ Features  
 ### Comprehensive Reconnaissance:
 - Conducts in-depth website and network reconnaissance
@@ -51,6 +55,11 @@ Byte Find is a powerful information-gathering and security assessment tool desig
 2.3 Identify Common Vulnerabilities Using Service and Version  
 
 ---
+## 🛡️ Prerequisites  
+- **Metasploit Framework**: Ensure that the Metasploit Framework is installed on your system. You can download it from the [official Metasploit website](https://www.metasploit.com/). For installation instructions, refer to their [documentation](https://docs.metasploit.com/).
+- **Nmap**: Ensure that Nmap is installed on your system. You can download it from the [official Nmap website](https://nmap.org/download.html). For installation instructions, refer to their [documentation](https://nmap.org/book/inst-methods.html).
+
+---
 ## 📥 Installation  
 1. Clone or download the project repository:
    ```bash
@@ -72,7 +81,27 @@ Byte Find is a powerful information-gathering and security assessment tool desig
 ---
 
 ## 📸 Screenshots  
-![Screenshot](https://github.com/yourusername/projectname/assets/sample-image.png)
+<div align="center">
+<img src="assets/Download.png" alt="Bitefind">
+<br>
+<br>
+<img src="assets/install.png" alt="install">
+<br>
+<br>
+<img src="assets/Run.png" alt="Run">
+<br>
+<br>
+<img src="assets/webApplication.png" alt="webApplication">
+<br>
+<br>
+<img src="assets/NetworkScan.png" alt="Networkscan" width="10000" >
+<br>
+<br>
+<img src="assets/sample (2).png" alt="output">
+<br>
+<br>
+<img src="assets/sample (1).png" alt="output">
+</div>
 
 ---
 
@@ -81,19 +110,18 @@ We are **Protocol-Protectors**, a team dedicated to cybersecurity, ethical hacki
 
 ### Our Team:
 - **Aakash Guptha** – VAPT .
-- **Narain Karthik Jayakumar** – Network Engineer & Security.
 
----
 ## 📞 Contact  
 ### **Aakash Guptha:**  
 - **LinkedIn:** [Aakash Guptha](https://www.linkedin.com/in/aakash-guptha-b72577215)  
 - **Email:** aakashgupthagwapt@gmail.com
 
-### **Narain Karthik Jayakumar:**  
-- **LinkedIn:** [Narain Karthik Jayakumar](https://www.linkedin.com/in/narain-karthik-jayakumar-a635931b1)  
-- **Email:** narainjkans@yahoo.com  
-
 ---
 
 ## 📜 License  
-Byte Find is developed by the **Protocol-Protectors Team** with ❤️. Your support encourages us to enhance Byte Find further. Community contributors are welcome to contribute, and if you love Byte Find, show your support by giving it a ⭐.
+Byte Find is developed by the **AAKASH GUPTHA** with ❤️. Your support encourages us to enhance Byte Find further. Community contributors are welcome to contribute, and if you love Byte Find, show your support by giving it a ⭐.
+
+---
+## ⚠️ Disclaimer
+
+The **Byte Find Tool** is for educational and ethical security testing only. Unauthorized use on systems without permission is illegal and may have legal consequences. The developers hold no responsibility for misuse or damage caused by this tool. Users must follow ethical hacking principles and comply with all applicable laws.
