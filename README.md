@@ -29,6 +29,8 @@ Byte Find is a powerful information-gathering and security assessment tool desig
 - Provides accurate and detailed security insights
 - Enhances cybersecurity analysis and penetration testing
 
+---
+
 ## 🛠️ Modules  
 ### 1. Web Application Scanning:
 1.1 DNS and WHOIS Information  
